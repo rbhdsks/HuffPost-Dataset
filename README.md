@@ -2,6 +2,7 @@
 
 ## Dataset Description
 This dataset contains financial news headlines and associated metadata collected from HuffPost spanning from the year 2012 to 2022. It is structured in JSON format and specifically designed for sentiment analysis applications in financial market forecasting.
+** Published at Academy of marketing journal ABDC Category B**
 
 The dataset was curated as part of the research project titled "Integrating Stress Index with Sentiment Analysis: Leveraging FinBERT Model for Enhanced Market Forecasting and Portfolio Optimization." 
 
@@ -42,7 +43,7 @@ If using this dataset, please cite appropriately:
   publisher = {Harvard Dataverse},
   title = {{Financial News Sentiment Dataset (2012-2022) for Market Forecasting from HuffPost}},
   year = {2025},
-  url = {YOUR_URL_HERE},
+  url = {https://www.abacademies.org/articles/integrating-finbert-sentiment-with-financial-stress-for-optimized-portfolio-performance.pdf},
   version = {V1}
 }
 ```
